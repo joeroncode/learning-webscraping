@@ -6,6 +6,12 @@ learn websraping
 -Install python 3
 
 
--That problem 
+-what problem 
 
 -What next 
+
+-pip install
+
+-scapy install 
+
+-Example
